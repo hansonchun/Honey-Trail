@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b1065cdcf77c7f446bfdb799a4c6cb38
+timeCreated: 1485423428
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameThreshold: {instanceID: 0}
+  - mapThreshold: {instanceID: 0}
+  - GameManager: {instanceID: 0}
+  - map: {instanceID: 0}
+  - honeyComb: {fileID: 21300000, guid: 64638fb8dafb51b4f922394f8bb0fc1f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
